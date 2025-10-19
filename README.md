@@ -6,6 +6,7 @@ This project demonstrates how some of the most popular machine learning algorith
 📌 What’s Included?
 
 This repository currently includes:
+
 Algorithm	Type	Status	Notebook	Visualization
 Decision Tree	Supervised	✅	✅	✅
 Random Forest	Supervised	✅	✅	✅
@@ -18,7 +19,9 @@ Support Vector Machine (SVM)	Supervised	✅	✅	✅
 All models include: training/testing on real datasets, accuracy evaluation, and visual outputs.
 
 🎯 Goals of This Repository
+
 Help learners understand how ML algorithms work under the hood
+
 Implement algorithms from scratch and using scikit-learn
 
 Practice with real-world datasets
