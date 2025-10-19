@@ -14,7 +14,7 @@ K-Nearest Neighbors	Supervised	✅	✅	✅
 K-Means Clustering	Unsupervised	✅	✅	✅
 Linear Regression	Supervised	✅	✅	✅
 Logistic Regression	Supervised	✅	✅	✅
-Support Vector Machine (SVM)	Supervised	✅	✅	✅
+Support Vector Machine	Supervised	✅	✅	✅
 
 All models include: training/testing on real datasets, accuracy evaluation, and visual outputs.
 
@@ -65,27 +65,27 @@ Feature: Cluster visualization using different colors
 
 5. 📈 Linear Regression
 
-Concept: Models the relationship between input features and continuous target using a straight line.
+Concept: Models the relationship between independent variables and a continuous target variable using a straight line.
 
-Applications: Predicting prices, trends, and numerical forecasting
+Applications: Price prediction, sales forecasting, trend analysis
 
-Feature: Line of best fit visualization, residual analysis
+Feature: Line of best fit visualization and residual plots
 
 6. 📊 Logistic Regression
 
-Concept: Used for binary classification by modeling the probability that an instance belongs to a class.
+Concept: Predicts the probability of a binary outcome using a logistic (sigmoid) function.
 
-Applications: Email spam detection, disease diagnosis, churn prediction
+Applications: Spam detection, disease prediction, credit scoring
 
-Feature: Sigmoid function visualization, decision boundary plot
+Feature: Decision boundary and probability curve visualization
 
 7. 📐 Support Vector Machine (SVM)
 
-Concept: Finds the optimal hyperplane that separates data points of different classes with the maximum margin.
+Concept: Classifies data by finding the hyperplane that best separates classes with maximum margin.
 
-Applications: Face detection, text classification, bioinformatics
+Applications: Image classification, text categorization, pattern recognition
 
-Feature: Margin and support vector visualization
+Feature: Visualization of support vectors and decision boundaries
 
 📊 Evaluation Metrics
 
